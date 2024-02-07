@@ -8,7 +8,7 @@ import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 import pandas as pd
 
-from src.utils import cpath, load_pkl
+from src.utils import load_pkl
 
 url_default_functions={}
 analysis_name = 'bhairaviTransposed'
