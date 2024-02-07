@@ -1,0 +1,6 @@
+dash==2.14.2
+pandas
+numpy
+yaml
+gunicorn
+dash_bootstrap_components

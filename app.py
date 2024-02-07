@@ -14,6 +14,7 @@ url_default_functions={}
 analysis_name = 'bhairaviTransposed'
 
 app = Dash(__name__)
+server = app.server
 
 data_dict = {'df': None, 'ap_series': None, 'pp_series': None, 'clusters': None}
 
